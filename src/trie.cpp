@@ -1,3 +1,9 @@
+#---------------------------------------------------------------------
+# File       : trie.cpp
+# Content       : código cpp do header trie.hpp
+# Author        : Gabriel Eduardo Lemos dos Santos (gabriel.lemos@dcc.ufmg.br)
+# History      : 2023-05-23 - file created
+#---------------------------------------------------------------------
 #include "trie.hpp"
 
 #define FAILED false
