@@ -1,8 +1,8 @@
 #---------------------------------------------------------------------
 # File       : Makefile
 # Content       : Compile the compression program
-# Author        : Vitor Emanuel Ferreira Vital (vitorvital@dcc.ufmg.br)
-# History      : 2023-04-20 - file created
+# Author        : Gabriel Eduardo Lemos dos Santos (gabriel.lemos@dcc.ufmg.br)
+# History      : 2023-05-23 - file created
 #---------------------------------------------------------------------
 # Options       : make all - Compiles all and generates the executable
 #               : make clean - Removes object files and executable
