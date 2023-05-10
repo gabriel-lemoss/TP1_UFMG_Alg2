@@ -35,4 +35,5 @@ Os valores a seguir serão exibidos da forma: "nome do arquivo" : "tamanho origi
   
 # Instruções para execução e compilação
  
-  Para realizar a compilação do programa, deve-se executar o make file com o comando "make". Após isso, seu executavél será disponibilizado na pasta "bin". Para acessá-lo, deve-se utilizar do comando "./bin/main.exe" assim será possível executar o código. <br /> Após isso adiciona-se a flag "-c" ou "-x" para escolher a operação. Assim, insere o nome do arquivo .txt (ou .z78 caso a opção escolhida seja a de descompressão) e, por fim, caso deseje, utilize a flag "-o" para escolher o nome do arquivo de saída.
+  Para realizar a compilação do programa, deve-se executar o make file com o comando "make". Após isso, seu executavél será disponibilizado na pasta "bin". Para acessá-lo, deve-se utilizar do comando "./bin/main.exe" assim será possível executar o código. <br /> Após isso adiciona-se a flag "-c" ou "-x" para escolher a operação. Assim, insere o nome do arquivo .txt (ou .z78 caso a opção escolhida seja a de descompressão) e, por fim, caso deseje, utilize a flag "-o" para escolher o nome do arquivo de saída. <br/>
+Os arquivos obtidos a partir da execução do código serão encontrados no mesmo diretório do arquivo de entrada.
