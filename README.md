@@ -23,15 +23,16 @@ Os valores a seguir serão exibidos da forma: "nome do arquivo" : "tamanho origi
   constituição1988: 651,8 // 356,2 // 45.3%  <br />
   crypto: 12.3 // 10,2 // 17.0%  <br />
   dom_casmurro: 409,6 296,4 27,6%  <br />
-  dracula: 835,4 546,9
-  frankestein: 448,6 313,6
-  geshukuin: 448,9 264,9
-  greek: 78,2 51,9
-  moby_dick: 1276,2 826,8
-  os_lusiadas: 344,5 195,2
-  tp1: 6,7 // 6,1
-  
+  dracula: 835,4 // 546,9 // 34,5% <br />
+  frankestein: 448,6 // 313,6 // 30,1% <br />
+  geshukuin: 448,9 // 264,9 // 41,0% <br />
+  greek: 78,2 // 51,9 // 33,6% <br />
+  moby_dick: 1276,2 // 826,8 // 35.2% <br />
+  os_lusiadas: 344,5 // 195,2% // 56,6% <br />
+  tp1: 6,7 // 6,1 //  8,9% <br />
+ 
+  Os valores apresentados foram arredondados para uma(1) casa decimal.
   
 # Instruções para execução e compilação
  
-  Para realizar a compilação do programa, deve-se executar o make file com o comando "make". Após isso, seu executavél será disponibilizado na pasta "bin". Para acessá-lo, deve-se utilizar do comando "./bin/main.exe" assim será possível executar o código. Após isso adiciona-se a flag "-c" ou "-x" para escolher a operação. Assim, insere o nome do arquivo .txt (ou .z78 caso a opção escolhida seja a de descompressão) e, por fim, caso deseje, utilize a flag "-o" para escolher o nome do arquivo de saída.
+  Para realizar a compilação do programa, deve-se executar o make file com o comando "make". Após isso, seu executavél será disponibilizado na pasta "bin". Para acessá-lo, deve-se utilizar do comando "./bin/main.exe" assim será possível executar o código. <br /> Após isso adiciona-se a flag "-c" ou "-x" para escolher a operação. Assim, insere o nome do arquivo .txt (ou .z78 caso a opção escolhida seja a de descompressão) e, por fim, caso deseje, utilize a flag "-o" para escolher o nome do arquivo de saída.
