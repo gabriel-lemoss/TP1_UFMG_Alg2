@@ -13,7 +13,6 @@ SRC = src
 INC = include
 OBJ = obj
 BIN = bin
-RES = result
 CFLAGS = -Werror -Wall -I $(INC) -c -std=c++17
 OBJS = $(OBJ)/trie.o $(OBJ)/main.o
 EXE = main.exe
@@ -25,4 +24,4 @@ $(OBJ)/%.o : $(SRC)/%.cpp
 	$(CC) $(CFLAGS) -o $@ $<
 
 clean :
-	rm $(OBJ)/*.o $(BIN)/*.exe $(RES)/*
+	rm $(OBJ)/*.o $(BIN)/*.exe
