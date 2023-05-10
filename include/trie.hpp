@@ -1,3 +1,10 @@
+#---------------------------------------------------------------------
+# File       : trie.hpp
+# Content       : Arvore trie para execução do código
+# Author        : Gabriel Eduardo Lemos dos Santos (gabriel.lemos@dcc.ufmg.br)
+# History      : 2023-05-23 - file created
+#---------------------------------------------------------------------
+
 #ifndef TRIE_H_
 #define TRIE_H_
 
