@@ -1,4 +1,4 @@
-# TP1_UFMG_Alg2
+# TP1 UFMG Alg2 - Manipulação de sequências
 Trabalho Prático de Algoritmos 2: Manipulação de sequências
 
   O problema em questão neste trabalho consiste em, dado um arquivo .txt, realizar a compressão de descompressão dele utilizando o algoritmo LZ78. Além disso odicionário utilizado pelo algoritmo deve ser implementado através deuma árvore trie compacta
