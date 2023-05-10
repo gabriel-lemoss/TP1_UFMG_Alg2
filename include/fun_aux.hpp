@@ -1,3 +1,9 @@
+#---------------------------------------------------------------------
+# File       : fun_aux.hpp
+# Content       : header com funções auxiliares
+# Author        : Gabriel Eduardo Lemos dos Santos (gabriel.lemos@dcc.ufmg.br)
+# History      : 2023-05-23 - file created
+#---------------------------------------------------------------------
 #include "trie.hpp"
 #include <iostream>
 #include <fstream>
