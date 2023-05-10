@@ -1,3 +1,9 @@
+#---------------------------------------------------------------------
+# File       : lz78.hpp
+# Content       : Função de compressão e descompressão do algoritmo LZ78
+# Author        : Gabriel Eduardo Lemos dos Santos (gabriel.lemos@dcc.ufmg.br)
+# History      : 2023-05-23 - file created
+#---------------------------------------------------------------------
 #include "fun_aux.hpp"
 
 void compress(std::string in_file, std::string out_file)
