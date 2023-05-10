@@ -2,7 +2,7 @@
 # File       : main.cpp
 # Content       : Função main do TP1
 # Author        : Gabriel Eduardo Lemos dos Santos (gabriel.lemos@dcc.ufmg.br)
-# History      : 2023-05-23 - file created
+# History      : 2023-05-06 - file created
 #---------------------------------------------------------------------
 #include "lz78.hpp"
 
