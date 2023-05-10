@@ -20,16 +20,16 @@ Trabalho Prático de Algoritmos 2: Manipulação de sequências
 
 Os valores a seguir serão exibidos da forma: "nome do arquivo" : "tamanho original" , "tamanho final" = "taxa de compressão (em %)" <br />
 
-  constituição1988: 651,8 356,2 45.3%  <br />
-  crypto: 12.3 10,2 17.0%  <br />
+  constituição1988: 651,8 // 356,2 // 45.3%  <br />
+  crypto: 12.3 // 10,2 // 17.0%  <br />
   dom_casmurro: 409,6 296,4 27,6%  <br />
-  dracula: 546,9
-  frankestein: 313,6
-  geshukuin: 264,9
-  greek: 51,9
-  moby_dick: 826,8
-  os_lusiadas: 195,2
-  tp1: 6,1
+  dracula: 835,4 546,9
+  frankestein: 448,6 313,6
+  geshukuin: 448,9 264,9
+  greek: 78,2 51,9
+  moby_dick: 1276,2 826,8
+  os_lusiadas: 344,5 195,2
+  tp1: 6,7 // 6,1
   
   
 # Instruções para execução e compilação
