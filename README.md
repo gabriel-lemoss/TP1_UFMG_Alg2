@@ -18,18 +18,18 @@ Trabalho Prático de Algoritmos 2: Manipulação de sequências
 
 # Resultados das taxas de compressão 
 
-Os valores a seguir serão exibidos da forma: "nome do arquivo" : "tamanho original" , "tamanho final" = "taxa de compressão (em %)" <br />
+Os valores a seguir serão exibidos da forma: "nome do arquivo" : "tamanho original" , "tamanho final" = "taxa de compressão (em %)" <br /> Sendo que todos eles apresntam tamanho da ordem kB.
 
-  constituição1988: 651,8 // 356,2 // 45.3%  <br />
-  crypto: 12.3 // 10,2 // 17.0%  <br />
-  dom_casmurro: 409,6 296,4 27,6%  <br />
-  dracula: 835,4 // 546,9 // 34,5% <br />
-  frankestein: 448,6 // 313,6 // 30,1% <br />
-  geshukuin: 448,9 // 264,9 // 41,0% <br />
-  greek: 78,2 // 51,9 // 33,6% <br />
-  moby_dick: 1276,2 // 826,8 // 35.2% <br />
-  os_lusiadas: 344,5 // 195,2% // 56,6% <br />
-  tp1: 6,7 // 6,1 //  8,9% <br />
+  constituição1988: 651,8kB // 356,2kB // 45.3%  <br />
+  crypto: 12.3kB // 10,2kB // 17.0%  <br />
+  dom_casmurro: 409,6kB // 296,4kB // 27,6%  <br />
+  dracula: 835,4kB // 546,9kB // 34,5% <br />
+  frankestein: 448,6kB // 313,6kB // 30,1% <br />
+  geshukuin: 448,9kB // 264,9kB // 41,0% <br />
+  greek: 78,2kB // 51,9kB // 33,6% <br />
+  moby_dick: 1276,2kB // 826,8kB // 35.2% <br />
+  os_lusiadas: 344,5kB // 195,2kB // 56,6% <br />
+  tp1: 6,7kB // 6,1kB //  8,9% <br />
  
   Os valores apresentados foram arredondados para uma(1) casa decimal.
   
